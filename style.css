@@ -124,8 +124,9 @@ main{
     
     .first, #secondCon, #thirdCon, #forthCon, #fifthCon, #lastCon{
         height: fit-content;
-        width: fit-content;
+        width: 60%;
         overflow: hidden;
+        margin-top: 6px;
     }
     
 }
