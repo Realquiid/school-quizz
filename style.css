@@ -125,7 +125,7 @@ main{
     .first, #secondCon, #thirdCon, #forthCon, #fifthCon, #lastCon{
         height: 40%;
         width: 60%;
-        overflow: auto;
+        overflow: hidden;
     }
     
 }
